@@ -5,3 +5,5 @@ This repo demonstrates how Hugging Face models can be registered via Domino Data
 The example notebook demonstrates how to register as well as run the models 
 
 TBD - Running the registered model as a model api endpoint
+
+## Run the model invocation as a job
